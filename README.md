@@ -81,7 +81,7 @@ LEFT JOIN maintenance_invoices mi
     ON ml.maintenance_id = mi.maintenance_id
 GROUP BY e.equipment_id
 ORDER BY total_maintenance_cost DESC;
-
+```
 ---
 
 ## Tools Used
