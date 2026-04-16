@@ -1,5 +1,6 @@
 # Equipment Operations Analysis
-Thisanalysis demonstrates how SQL can be used to evaluate operational efficiency, cost drivers, and asset performance within a simulated enterprise environment.
+This analysis demonstrates how SQL can be used to evaluate operational efficiency, cost drivers, and asset performance within a simulated enterprise environment.
+> Note: Detailed observations and recommendations will be added following data review. Current focus is on data modeling and query development.
 
 ## Objective
 
