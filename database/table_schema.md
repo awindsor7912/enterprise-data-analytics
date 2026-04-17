@@ -5,6 +5,8 @@ Tables were created using standard SQL DDL statements with defined primary and f
 
 While simplified in scale, the schema reflects common patterns found in enterprise environments, enabling realistic querying, aggregation, and analytical workflows. The structure is designed to support analysis across operational efficiency, cost drivers, and resource utilization.
 
+> Note: This schema is a work in progress and is designed for extensibility. Future iterations will introduce additional entities and relationships to support broader operational domains and more complex analytical workflows. Planned additions include human resources, billing and accounting, work management (WIP), and other enterprise data structures to enable deeper cross-functional analysis.
+
 ---
 
 ## Employees Table
